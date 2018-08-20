@@ -1,6 +1,7 @@
 ## Founder
 
 Name: Brent Norris
+
 Role: Founder
 
 ## Team Member 1
