@@ -22,8 +22,6 @@ Community Choice
 
 The community will vote and decide the best way to utilize 10% of TRX earned through block rewards (Monthly).
 
-IE:
-
 Rewards to the voters (For a total of 85% rewards)
 TRON SR hosted events
 Incentives for developers
