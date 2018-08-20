@@ -10,7 +10,9 @@ TRX Guardians commitment will always be to the community and TRON; with a clear 
 Block Rewards breakdown:  75-15-10
  
 75% of the rewards will always be given back to the community
+
 15% Maintenance & Security / Upgrades / Admin 
+
 10% Community’s Choice; Retained for Voting (monthly)
 
 Rewards % will increase and Maintenance & Security % will decrease with the price of TRX.
