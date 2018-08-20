@@ -19,10 +19,7 @@ Block Rewards breakdown:  75-15-10
 Rewards % will increase and Maintenance & Security % will decrease with the price of TRX.
 
 
-
-Community Choice
-
-The community will vote and decide the best way to utilize 10% of TRX earned through block rewards (Monthly).
+Community Choice - The community will vote and decide the best way to utilize 10% of TRX earned through block rewards (Monthly).
 
 Rewards to the voters (For a total of 85% rewards)
 TRON SR hosted events
@@ -35,9 +32,7 @@ The list is endless
 
 TRX Guardian would like to see all SR candidates and their respective communities come together, because as TRON supporters, we are better and stronger together.
 
-ONE Community
-
-Each and every community member and SR can help bring great things to the ecosystem and infrastructure.   
+ONE Community - Each and every community member and SR can help bring great things to the ecosystem and infrastructure.   
 
 Coming together as ONE:
 
@@ -46,12 +41,10 @@ TRON SR sponsored Blockchain Events
 SRs Attending Blockchain Events together
 SRs & Community Meet-ups
 
-Guardians Store
-100% of the profits will added to the Community’s Choice 10% voting. 
+Guardians Store - 100% of the profits will added to the Community’s Choice 10% voting. 
 
 
-Boots On The Ground
-Towards Mass adoption and awareness.
+Boots On The Ground Towards Mass adoption and awareness.
 
 We have a trip planned to Thailand in October, where we will be setting up meetings with potential businesses; with the plan of introducing them to TRON and Hummingpay. 
 
