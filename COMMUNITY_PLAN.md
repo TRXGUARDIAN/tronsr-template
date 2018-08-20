@@ -21,14 +21,7 @@ Rewards % will increase and Maintenance & Security % will decrease with the pric
 
 Community Choice - The community will vote and decide the best way to utilize 10% of TRX earned through block rewards (Monthly).
 
-Rewards to the voters (For a total of 85% rewards)
-TRON SR hosted events
-Incentives for developers
-Marketing / Awareness / Adoption
-Attending Blockchain events / Meetups
-Promotional Sponsorships
-Used to help other SRs (IE: With Education Incentives / Projects)
-The list is endless
+Rewards to the voters (For a total of 85% rewards) - TRON SR hosted events - Incentives for developers - Marketing / Awareness / Adoption - Attending Blockchain events / Meetups - Promotional Sponsorships - Used to help other SRs (IE: With Education Incentives / Projects) - The list is endless
 
 TRX Guardian would like to see all SR candidates and their respective communities come together, because as TRON supporters, we are better and stronger together.
 
@@ -36,10 +29,7 @@ ONE Community - Each and every community member and SR can help bring great thin
 
 Coming together as ONE:
 
-Combined SR Contests for the community
-TRON SR sponsored Blockchain Events
-SRs Attending Blockchain Events together
-SRs & Community Meet-ups
+Combined SR Contests for the community - TRON SR sponsored Blockchain Events - SRs Attending Blockchain Events together - SRs & Community Meet-ups
 
 Guardians Store - 100% of the profits will added to the Community’s Choice 10% voting. 
 
