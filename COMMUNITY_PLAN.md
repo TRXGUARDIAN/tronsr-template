@@ -34,6 +34,7 @@ The list is endless
 TRX Guardian would like to see all SR candidates and their respective communities come together, because as TRON supporters, we are better and stronger together.
 
 ONE Community
+
 Each and every community member and SR can help bring great things to the ecosystem and infrastructure.   
 
 Coming together as ONE:
