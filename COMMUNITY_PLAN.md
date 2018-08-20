@@ -48,14 +48,10 @@ Boots On The Ground Towards Mass adoption and awareness.
 
 We have a trip planned to Thailand in October, where we will be setting up meetings with potential businesses; with the plan of introducing them to TRON and Hummingpay. 
 
-Major Cinema Groups
-Tour Operators
-Other Major Venues
-As well as hosting a TRON TRX Guardian meet-up to build awareness.
+Major Cinema Groups,Tour Operators, Other Major Venues; As well as hosting a TRON TRX Guardian meet-up to build awareness.
 
 
 TRX Guardian Projects
 
 Current projects: 
-dApp for Entertainers/Content Creators
-(PvP) “TRON: The Last Stand”
+dApp for Entertainers/Content Creators and (PvP) “TRON: The Last Stand”
